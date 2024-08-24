@@ -77,7 +77,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
     <body>
         <div class="container">
             <a href= "${baseUrl}"><img class="logo" src="./Logo-Full-Light.png"
-                    alt="StudyAura Logo"></a>
+                    alt="studynotion Logo"></a>
             <div class="message">Course Registration Confirmation</div>
             <div class="body">
                 <p>Dear ${name},</p>
@@ -88,7 +88,7 @@ exports.courseEnrollmentEmail = (courseName, name) => {
                 <a class="cta" href="${baseUrl}/dashboard">Go to Dashboard</a>
             </div>
             <div class="support">If you have any questions or need assistance, please feel free to reach out to us at <a
-                    href="mailto:studyaura.app@gmail.com">studyaura.app@gmail.com</a>. We are here to help!</div>
+                    href="mailto:studynotion.app.dev.tech@gmail.com">studynotion.app.dev.tech@gmail.com</a>. We are here to help!</div>
         </div>
     </body>
     
