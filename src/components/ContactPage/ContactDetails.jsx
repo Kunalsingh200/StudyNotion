@@ -15,13 +15,13 @@ const contactDetails = [
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
     details:
-      "studynotion Offie, Ahmedabad",
+      "studynotion office, Ahmedabad",
   },
   {
     icon: "IoCall",
     heading: "Call us",
     description: "Mon - Fri From 9am to 6pm",
-    details: "+91 9825345818",
+    details: "+91 1234567890",
   },
 ]
 
